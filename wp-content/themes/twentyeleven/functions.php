@@ -112,6 +112,7 @@ function twentyeleven_setup() {
 
 	// This theme uses Featured Images (also known as post thumbnails) for per-post/per-page Custom Header images
 	add_theme_support( 'post-thumbnails' );
+	
 
 	// Add support for custom headers.
 	$custom_header_support = array(
